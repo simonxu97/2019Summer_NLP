@@ -1,0 +1,9 @@
+1. Summarize the reasons of overfitting and underfitting.
+过拟合原因：数据样本抽取分布不均；数据中噪音过大；参数太多，模型过于复杂
+欠拟合原因：数据不足；数据样本抽取分布不均；模型能力欠缺
+
+2. Write down sceneries machine learning has been used now.
+银行金融诈骗识别；文本分类；推荐系统中猜你喜欢功能
+
+3. Come out with three new sceneries with which machine learning may be applied.
+员工和工作职位自动匹配，减少hr工作压力；帮助人减肥，自动安排一日三餐和运动量；道路规划，针对当前道路拥堵情况时时改变
